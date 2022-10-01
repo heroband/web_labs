@@ -1,0 +1,38 @@
+body{
+	background-image: url("pixmap.jpg");
+	background-repeat: repeat;
+}
+
+pre{
+	color: purple;
+}
+
+#third{
+	font-style: italic;
+}
+
+.zagolovok{
+	color: red;
+	font-size: 12px;
+}
+
+.fifth{
+	color: navy;
+}
+
+#seventh_first_abzac{
+	padding: 10%;
+	font-family: Courier;
+}
+
+#seventh_second_abzac{
+	color: red;
+	text-decoration: line-through;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#seventh_third_abzac{
+	text-align: right;
+	word-spacing: 10px;
+}
