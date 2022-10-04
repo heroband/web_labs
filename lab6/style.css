@@ -1,0 +1,47 @@
+ol{
+	list-style-type: upper-roman;
+	color: purple;
+}
+
+.first:visited{
+	color: greenyellow;
+}
+
+.first:hover{
+	color: red;
+}
+
+
+.first{
+	text-decoration: underline;
+}
+
+.second:visited{
+	color: greenyellow;
+}
+
+.second:hover{
+	color: red;
+}
+
+
+.second{
+	text-decoration: underline;
+}
+
+.third:visited{
+	color: greenyellow;
+}
+
+.third:hover{
+	color: red;
+}
+
+
+.third{
+	text-decoration: underline;
+}
+
+.third:hover{
+	cursor: pointer;
+}
