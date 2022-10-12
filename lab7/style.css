@@ -1,0 +1,63 @@
+.zagolovok{
+	text-align: center;
+}
+
+.image{
+float: left;
+	margin: 0px 20px 0px 20px;
+	width: 150px;
+	height: 150px;
+}
+
+.image-size{
+	transition: 0.5s;
+	width: 150px;
+	height: 150px;
+}
+
+.image-size:hover{
+	transform: scale(3.0);
+}
+
+figure{
+	text-align: center;
+	font-size: smaller;
+}
+
+td, tr{
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.first_table:hover{
+	display: block;
+	color: skyblue;
+	background-color: orangered;
+}
+
+.caption{
+	float: left;
+	color: skyblue;
+}
+
+#LeftStolbec{
+	background-color: yellow;
+}
+
+.stroki{
+	border: 1px solid black;
+	border-bottom: 1px dashed black;
+	border-top: 1px dashed black;
+}
+
+.second_table{
+	border-collapse: collapse;
+}
+.strokiWITHsplownoiLiniei{
+	border: 1px solid black;
+	border-bottom: 1px dashed black;
+}
+.strokiWITHsplownoiLiniei2{
+	border: 1px solid black;
+	border-top: 1px dashed black;
+}
